@@ -8,3 +8,4 @@ maven
 0.1.3 重试
 0.1.4 重试
 0.1.5 targetSdk compileSdk 改成34
+0.1.6 db调整
