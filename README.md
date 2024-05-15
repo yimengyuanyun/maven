@@ -11,3 +11,5 @@ maven
 0.1.6 db调整
 0.1.9 新版本
 0.1.10 bug修复 DCsyncDBFromDC 
+
+0.2.1 新版本修复bug
