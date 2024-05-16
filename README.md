@@ -13,3 +13,4 @@ maven
 0.1.10 bug修复 DCsyncDBFromDC 
 
 0.2.1 新版本修复bug
+0.2.2 添加节点缓存
