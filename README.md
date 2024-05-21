@@ -16,3 +16,4 @@ maven
 0.2.2 添加节点缓存
 0.2.3 bugfix
 0.2.4 auth_
+0.2.5 bugfix
